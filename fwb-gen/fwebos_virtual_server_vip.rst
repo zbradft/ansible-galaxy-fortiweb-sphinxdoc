@@ -4,7 +4,7 @@
 
 .. fwebos_virtual_server_vip.py:
 
-fwebos_virtual_server_vip.py -- Needs file new description
+fwebos_virtual_server_vip.py -- Assign FortiWeb virtual IP with virtual server
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. versionadded:: 1.0.1
@@ -16,7 +16,7 @@ fwebos_virtual_server_vip.py -- Needs file new description
 
 Synopsis
 --------
-Needs file new description
+Assign FortiWeb virtual IP with virtual server
 
 
 Requirements

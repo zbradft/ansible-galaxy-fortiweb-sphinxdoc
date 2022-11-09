@@ -4,7 +4,7 @@
 
 .. fwebos_certificate_sni_member.py:
 
-fwebos_certificate_sni_member.py -- Needs file new description
+fwebos_certificate_sni_member.py -- Config FortiWeb server objects SNI Inline SNI member
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. versionadded:: 1.0.1
@@ -16,7 +16,7 @@ fwebos_certificate_sni_member.py -- Needs file new description
 
 Synopsis
 --------
-Needs file new description
+Config FortiWeb server objects SNI Inline SNI member
 
 
 Requirements

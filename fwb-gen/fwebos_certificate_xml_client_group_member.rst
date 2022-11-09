@@ -4,7 +4,7 @@
 
 .. fwebos_certificate_xml_client_group_member.py:
 
-fwebos_certificate_xml_client_group_member.py -- Needs file new description
+fwebos_certificate_xml_client_group_member.py -- Config FortiWeb server objects XML Certificate Client group member
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. versionadded:: 1.0.1
@@ -16,7 +16,7 @@ fwebos_certificate_xml_client_group_member.py -- Needs file new description
 
 Synopsis
 --------
-Needs file new description
+Config FortiWeb server objects XML Certificate Client group member
 
 
 Requirements

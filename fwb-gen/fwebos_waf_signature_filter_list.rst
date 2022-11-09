@@ -4,7 +4,7 @@
 
 .. fwebos_waf_signature_filter_list.py:
 
-fwebos_waf_signature_filter_list.py -- Needs file new description
+fwebos_waf_signature_filter_list.py -- Config FortiWeb Web Protection Signature filter list
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. versionadded:: 1.0.1
@@ -16,7 +16,7 @@ fwebos_waf_signature_filter_list.py -- Needs file new description
 
 Synopsis
 --------
-Needs file new description
+Config FortiWeb Web Protection Signature filter list
 
 
 Requirements
